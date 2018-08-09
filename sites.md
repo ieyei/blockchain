@@ -9,6 +9,7 @@
 ## Media
 * http://www.decenter.kr/
 * https://www.blockmedia.co.kr/
+* https://blockinpress.com
 
 ## Cloud
 * Azure Blockchain : https://azure.microsoft.com/ko-kr/solutions/blockchain/
